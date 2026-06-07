@@ -1,3 +1,5 @@
+**Some credits go to Claude**
+
 ### Process Identification
 
 ```powershell
@@ -98,6 +100,8 @@ Rebuilt, transferred as `loader3.dll`, injected with new PowerShell class `Inj3`
 == Lcommvault/cte/util/PasswordEncoder; ==
   encode ([B)[B                                          
 ```
+
+
 
 Transferred as `loader4.dll`, injected with `Inj4`:
 
