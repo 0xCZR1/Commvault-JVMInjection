@@ -52,10 +52,8 @@ DWORD WINAPI go(LPVOID _) {
         NULL
     };
     const char* names[] = {
-        "s-xxx.cmv01", "s-xx.cmv01", "s-xxx.cmvt01",
-        "xxxx-vastnas01", "xxxx-vastnas01", "xxxs-vastnas01",
-        "postgres_11", "postgres_12", "postgres_13",
-        "jobresultsdir", NULL
+        "USER",
+        "USER"
     };
 
     for (int i=0; blobs[i]; i++){
